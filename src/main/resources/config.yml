@@ -1,0 +1,27 @@
+# Errors
+not-player: <red>You must be a player {action}
+invalid-player: <red><yellow>{player}</yellow> is not a valid username
+
+# Staff messages
+plugin-reloaded: <gold>MinesSMP plugin reloaded
+config-regenerated: <gold>MinesSMP config.yml regenerated
+server-opened: <gold>MinesSMP opened
+server-closed: <gold>MinesSMP closed
+
+# Joined/left
+joined: <yellow><gold>[<green>+</green>]</gold> {player} joined
+joined-sound: entity.experience_orb.pickup
+left: <yellow><gold>[<red>-</red>]</gold> {player} left
+left-sound: entity.generic.small_fall
+first-join: <green><gold>[</gold>+<gold>]</gold> {player} joined for the first time
+first-join-sound: entity.ender_dragon.death
+
+# Player messages
+ping: <gold>{player}'s ping is <yellow>{ping}ms
+
+# Dialog
+dialog-npc: <aqua><dark_aqua>{npc}</dark_aqua> <dark_gray>|</dark_gray> {greeting}
+dialog-option: ' <dark_gray>—</dark_gray> <hover:show_text:"<gray>Click to select this answer"><aqua>{option}</aqua></hover>'
+dialog-option-sound: ui.button.click
+dialog-enter-sound: entity.experience_orb.pickup
+dialog-exit-sound: ui.button.click

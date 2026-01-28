@@ -1,0 +1,10 @@
+dialog:
+    - label: Mr. Example
+      greeting: Hello there! I am an example.
+      pathways:
+          - label: Cheeseburger
+            greeting: Weirdo...
+            pathways: []
+          - label: You suck!
+            greeting: That's rude!
+            pathways: []

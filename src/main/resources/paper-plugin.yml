@@ -1,0 +1,7 @@
+name: MinesSMP
+version: ""
+main: com.boyninja1555.mines.MinesSMP
+api-version: "1.21"
+authors: [ boyninja1555 ]
+description: Official MinesSMP plugin
+folia-supported: true
