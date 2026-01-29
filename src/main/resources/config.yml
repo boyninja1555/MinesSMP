@@ -14,7 +14,7 @@ joined-sound: entity.experience_orb.pickup
 left: <yellow><gold>[<red>-</red>]</gold> {player} left
 left-sound: entity.generic.small_fall
 first-join: <green><gold>[</gold>+<gold>]</gold> {player} joined for the first time
-first-join-sound: entity.ender_dragon.death
+first-join-sound: ui.toast.challenge_complete
 
 # Player messages
 ping: <gold>{player}'s ping is <yellow>{ping}ms
